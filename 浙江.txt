@@ -29,19 +29,19 @@ CGTN-法语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236288/
 CGTN-阿语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8
 CGTN-俄语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236228/index.m3u8
 CGTN-西语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/index.m3u8
-CCTV第一剧场,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
-CCTV电视指南,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
-CCTV风云剧场,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
-CCTV卫生健康,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
-CCTV文化精品,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
-CCTV风云音乐,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
-CCTV风云足球,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV高尔夫网球,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
-CCTV怀旧剧场,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
-CCTV兵器科技,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
-CCTV女性时尚,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
-CCTV世界地理,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
-CCTV央视台球,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
+CCTV兵器科技,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/002/2024172103.m3u8
+CCTV怀旧剧场,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/006/2024171903.m3u8
+CCTV第一剧场,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/031/2024171803.m3u8
+CCTV风云剧场,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/096/2024171703.m3u8
+CCTV风云音乐,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/028/2024163303.m3u8
+CCTV风云足球,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/030/2012514203.m3u8
+CCTV央视文化精品,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/017/2024172303.m3u8
+CCTV女性时尚,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/010/2024172203.m3u8
+CCTV电视指南,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/022/2024172503.m3u8
+CCTV世界地理,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/008/2024172003.m3u8
+CCTV高尔夫网球,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/085/2024166203.m3u8
+CCTV央视台球,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/110/2024172403.m3u8
+CCTV卫生健康,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/151/2024165203.m3u8
 
 
 
