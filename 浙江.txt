@@ -98,6 +98,7 @@ CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
 CHC家庭影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?&HlsSubType=&encrypt=
 CHC动作电影-标清,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?&HlsSubType=&encrypt=
 经典香港电影,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/01.m3u8?&HlsSubType=&encrypt=
+淘电影,http://125.34.23.227:23234/rtp/239.3.1.250:8001
 Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
 Drama,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
 Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
