@@ -30,8 +30,6 @@ CGTN-阿语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/
 CGTN-俄语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236228/index.m3u8
 CGTN-西语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/index.m3u8
 
-
-
 🇨🇳卫视频道,#genre#
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
@@ -79,7 +77,10 @@ CETV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543/1/ind
 🇨🇳数字频道,#genre#
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
 CHC动作电影,http://117.114.153.18:8180/TV00000000000000000093@HHZT
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC影迷电影,http://117.114.153.18:8180/TV00000000000000000094@HHZT
+CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 CHC动作电影-湖南长沙市电信,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
