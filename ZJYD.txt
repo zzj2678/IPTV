@@ -74,9 +74,32 @@ CETV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236243/index
 CETV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543/1/index.m3u8?fmt=ts2hls
 
 🇨🇳电影频道,#genre#
-CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
-CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
-CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$V6
+CHC家庭影院,http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$V6
+CHC家庭影院,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$V6
+CHC家庭影院,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$V6
+
+CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$V6
+CHC动作电影,http://[2409:8087:7008:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$V6
+CHC动作电影,http://[2409:8087:7008:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$V6
+CHC动作电影,http://[2409:8087:7008:20::5]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$V6
+CHC动作电影,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$V6
+CHC动作电影,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$V6
+
+CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$V6
+CHC影迷电影,http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$V6
+CHC影迷电影,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$V6
+CHC影迷电影,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$V6
+
+CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
+CHC动作电影,http://120.198.101.106:9901/tsfile/live/1052_1.m3u8
+CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
+CHC家庭影院,http://218.15.183.23:9901/tsfile/live/23038_1.m3u8
+CHC家庭影院,http://120.238.94.82:9901/tsfile/live/1051_1.m3u8
+CHC家庭影院,http://120.198.101.106:9901/tsfile/live/1051_1.m3u8
+CHC影迷电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8
+CHC影迷电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC影迷电影,http://120.238.94.82:9901/tsfile/live/1053_1.m3u8
 
 CHC影迷电影,http://m.liuxiaobo.top:8888/udp/239.69.1.241:11088
 CHC动作电影,http://m.liuxiaobo.top:8888/udp/239.69.1.242:11094
